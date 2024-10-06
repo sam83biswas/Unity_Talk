@@ -1,11 +1,13 @@
 # Unity_Talk
 
 **Online Collaboration Platform**
+
 This project is a web-based collaboration platform developed using the ASP.NET MVC 4.7 framework and C#. The platform provides a comprehensive environment for real-time communication, file sharing, task management, and collaborative work. It includes features such as one-to-one and group-based interactions, real-time chat, virtual meetings, and more.
 
 
 **Features**
-    a)User Registration & Profile Management: Users can sign up, log in, and manage their profile, including editing credentials and setting active status (active/away).
+   
+    a)User Registration & Profile Management: Users can sign up, log in, and manage their profile, including editing credentials and s        etting active status (active/away).
 
     b)Group Management:
         i)Users can join public or private groups, or create new groups and assign admin roles.
@@ -14,7 +16,7 @@ This project is a web-based collaboration platform developed using the ASP.NET M
     
    c)To-Do List: Users can create, edit, and manage tasks in a personal to-do list, tracking completion status.
 
-   d)File Sharing: Users can securely upload and share files within groups, with the ability for admins and uploaders to manage file deletions.
+   d)File Sharing: Users can securely upload and share files within groups, with the ability for admins and uploaders to manage file         deletions.
 
    e)Whiteboard: A collaborative space for users to draw diagrams or jot down notes.
 
@@ -22,7 +24,7 @@ This project is a web-based collaboration platform developed using the ASP.NET M
 
    g)Feedback: Users can submit feedback to the platform administrators for continuous improvement.
 
-   h)Virtual Meetings: Each group has a meeting link where members can connect for video/audio meetings with options for screen sharing, recording, and file sharing.
+   h)Virtual Meetings: Each group has a meeting link where members can connect for video/audio meetings with options for screen sharing,     recording, and file sharing.
 
    i)Real-time Chat: Integrated chat functionality in each group, built using SignalR and WebSocket for real-time communication.
 
@@ -55,3 +57,6 @@ This project is a web-based collaboration platform developed using the ASP.NET M
     4.Set up the SQL Server database.
     
     5.Run the application.
+
+
+    
