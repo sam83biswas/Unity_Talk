@@ -8,9 +8,9 @@ This project is a web-based collaboration platform developed using the ASP.NET M
     a)User Registration & Profile Management: Users can sign up, log in, and manage their profile, including editing credentials and setting active status (active/away).
 
     b)Group Management:
-        Users can join public or private groups, or create new groups and assign admin roles.
-        Group admins can manage membership, set group visibility (public/private), and share group codes for joining.
-        Admins have the option to delete groups or remove themselves from groups.
+        i)Users can join public or private groups, or create new groups and assign admin roles.
+        ii)Group admins can manage membership, set group visibility (public/private), and share group codes for joining.
+        iii)Admins have the option to delete groups or remove themselves from groups.
     
    c)To-Do List: Users can create, edit, and manage tasks in a personal to-do list, tracking completion status.
 
@@ -29,29 +29,29 @@ This project is a web-based collaboration platform developed using the ASP.NET M
 
 **Technology Stack**
 
-    ASP.NET MVC 4.7 Framework: For building the overall structure of the application.
+    a)ASP.NET MVC 4.7 Framework: For building the overall structure of the application.
     
-    C# Language: For backend logic and functionality.
+    b)C# Language: For backend logic and functionality.
     
-    SQL Server Management Studio 2019: For data storage and management, ensuring data persistence.
+    c)SQL Server Management Studio 2019: For data storage and management, ensuring data persistence.
     
-    SignalR & WebSocket: To enable real-time chat communication.
+    d)SignalR & WebSocket: To enable real-time chat communication.
     
-    HTML, CSS, JavaScript: For the front-end UI, including a responsive design.
+    e)HTML, CSS, JavaScript: For the front-end UI, including a responsive design.
     
-    CSHTML: Used to create interactive and dynamic front-end elements.
+    f)CSHTML: Used to create interactive and dynamic front-end elements.
     
-    API Integration: Used for the virtual meeting feature.
+    g)API Integration: Used for the virtual meeting feature.
 
 
 **How to Run the Project**
 
-    Clone the repository from GitHub.
+    1.Clone the repository from GitHub.
     
-    Open the project in Visual Studio.
+    2.Open the project in Visual Studio.
     
-    Restore NuGet packages.
+    3.Restore NuGet packages.
     
-    Set up the SQL Server database.
+    4.Set up the SQL Server database.
     
-    Run the application.
+    5.Run the application.
